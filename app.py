@@ -1,3 +1,3 @@
 print("Finance Manager App.")
 print("Fixed Startup Bug")
-print("Expense Tracker Feature")
+print("Expense Tracker Feature is Disabled for now")
